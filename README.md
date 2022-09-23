@@ -2,7 +2,7 @@
 ## on-going...
 ## TODO
 1. Support cleansing (removing press tags, reporter info. etc.) of open-source Korean corpus
-2. Support filtering-out for processing a set of uniformly distributed corpus
+2. Support filtering-out of corpus of duplicated context for processing a set of uniformly distributed corpus
 3. Ready-to-use main file (including file I/O, functions above etc.)
 
 ## Possible Usage
