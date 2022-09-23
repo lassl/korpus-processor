@@ -26,6 +26,7 @@ platformdirs==2.5.2
 pyarrow==9.0.0
 pyparsing==3.0.9
 python-dateutil==2.8.2
+python-mecab-kor==1.2.3
 pytz==2022.2.1
 PyYAML==6.0
 regex==2022.9.13
